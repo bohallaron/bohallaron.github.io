@@ -1,12 +1,12 @@
 contact:
-    name: Alan Doe
-    summary: Full Stack Developer
+    name: Haystack O'Hallaron
+    summary: Full HayStack Developer
     avatar: bio.jpg
 
     # Sidebar links
     email: test@test.com # full email address
-    phone: 919-919-9191 # phone number
-    website: # your url (e.g. student.github.io), do not add http://
+    phone: 919-555-WOOF # phone number
+    website: ncsu.edu # your url (e.g. student.github.io), do not add http://
     linkedin: # your linkedin username
     github: # your github username
     gitlab: # your gitlab username
@@ -17,12 +17,12 @@ contact:
     osf: # your Open Science Framework username
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Good Dog certification
+      university: Good and Bad Dog State University
+      time: 2004-2007
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+    - degree: Anti-dentist
+      university: Bad Breath Dental School
       time: 2007 - 2011
 
 skills:
